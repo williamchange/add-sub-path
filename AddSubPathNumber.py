@@ -13,7 +13,7 @@
 
 bl_info = {
     "name": "AddSubPathNumber",
-    "author": "None",
+    "author": "williamchange",
     "description": "Increment/Decrement file number from output panel",
     "blender": (2, 83, 0),
     "version": (0, 0, 1),
